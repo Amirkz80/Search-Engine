@@ -17,8 +17,8 @@ And it includes a repo file in which there are ten text files that the program o
 
 The names of the different parts of the Python code are as follows: 
 <search_engine, ranking_test, ranking_functions, index, boolean_tokenizer , boolean_parser , boolean_operators>
-And the name of the JavaScript code section is:
-< >
+
+And there is a UI component built with JavaScript and the React library.
 
 - Boolean_operators:
 
@@ -51,7 +51,7 @@ And the name of the JavaScript code section is:
   This part of code is for testing the correct working of the program.
 
 ### The result of the program:
-
+ In the search box, the client enters the query and if there are Boolean symbols (AND, OR, NOT), the program detects and returns the Boolean result, and if there are no Boolean symbols, it returns the result as a ranking.
 
 **Challenges :**
 - One of the most important challenges we faced in this project is the speed of the program 
